@@ -1,0 +1,9 @@
+openai==0.28.0
+langchain==0.0.289
+pinecone-client==2.2.2
+python-dotenv==1.0.0
+tiktoken==0.5.1
+wikipedia==1.4.0
+pypdf==3.16.0
+jupyter=1.0.0
+doc2txt==0.8
